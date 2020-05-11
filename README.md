@@ -6,27 +6,116 @@ Project Team Members:
 - Brian Qian, brqian@ucsd.edu
 - Emma Logomasini, elogomas@ucsd.edu
 - Nicholas Kho, nikho@ucsd.edu
-- Siqi Huangg, name4@ucsd.edu
+- Siqi Huangg, (unreachable?)
 
 ## Abstract
 
-The Korean music industry is often seen as a bright and fresh representation of East-Asian creativity that has captured the world’s attention. In this project, we will be taking a look at numerous decades of popular music in Korea from the 1910s to the 2010s to understand the connection between distinctive musical styles and major political events that coincide with them. Part of what makes this possible analysis intriguing is that Korea has been under the cultural influence of two major powers in the last century in addition to dealing with oppressive regimes. Our goal is to try to measure the influence of these events in the difference of genres. Our research question is that do we see similar features in time periods that dealt with similar historical issues, in this case, political repression or economic growth? Our hypothesis is that we will see similarities in periods of great political conflict. To further cognize the influence of political changes, we will be extracting information in forms of features such as Fourier Transforms, MFCCs, temporal, and spectral statistics on a dataset of representative music of each major political era in recent Korean history. Thus we will be able to further attribute certain characteristics towards the political and cultural events, whether positive or negative, that occured within the same timeframe. 
+The Korean music industry is often seen as a bright and fresh representation of East-Asian creativity that has captured the world’s attention. In this project, we will be taking a look at numerous decades of popular music in Korea from the 1910s to the 2010s to understand the connection between distinctive musical styles and major political events that coincide with them. Part of what makes this possible analysis intriguing is that Korea has been under the cultural influence of two major powers in the last century in addition to dealing with oppressive regimes. Our goal is to try to measure the influence of these events in the difference of genres.
+
+Our research question is: do we see similar features in time periods that dealt with similar historical issues, in this case, political repression or economic growth? Our hypothesis is that we will see similarities in periods of great political conflict. To further cognize the influence of political changes, we will be extracting information in forms of features such as Fourier Transforms, MFCCs, temporal, and spectral statistics on a dataset of representative music of each major political era in recent Korean history. Thus we will be able to further attribute certain characteristics towards the political and cultural events, whether positive or negative, that occured within the same timeframe. 
 
 As for the technical process, we will be utilizing jupyterhub and numerous libraries such as Seaborn, matplotlib, and LibROSA to extract and display the features we will be taking into consideration. Our results will be formatted among graphs and charts to give a visual perception of each distinct era of political change to demonstrate if the popular music at that time shared specific elements among each other. We feel like we can make a “timeline” to represent the different features of each area.  We feel as this project will give us further insight into the history of Korean music which has become a global genre in today’s world. Overall, we want to see if there is a correlation between the characteristics of popular Korean music and major political events throughout time, and whether or not the relationship is substantial. 
-
-In terms of dataset, we will be utilizing suggested important songs of each era as outlined in the Sogang University's Professor Huikyong Pang’s class “The Mediums of Korean Cultural Modernity.” In addition, we plan to look at Melon [Korean’s music chart ranking since 2004] chart data for recent popular singles. 
 
 
 ## Data
 
-(10 points) 
+In terms of dataset, we will be utilizing suggested important songs of each era as outlined in the Sogang University's Professor Huikyong Pang’s class “The Mediums of Korean Cultural Modernity.” In addition, we took a look at Melon [Korean’s music chart ranking since 2004] chart data for recent popular singles to highlight major songs that have impacted the recent decades.
 
+From 1910-1945, Korea was under Japanese Colonization where the emergence of mass media, newspapers and Japanese TROT music, notable for its common sad themes, was introduced in the 1920s. By the 1930s the recording industry in Korea began to fully develop with the introduction of the phonograph. During this time, Japan often censored recordings that they deemed "troublesome." The songs we found the most prominent during this era were the following:
+
+    1. "희망가" Huimangga (1925)
+    "Huimangga" was a popular Changga (Anti-Japanese) song that was sung to express the people's hope of regaining the country's sovereignty. While the song doesn't have a specific recording or artist, it was one of the earliest pop record that was inspired by Western and Christian hymns
+    https://www.youtube.com/watch?v=F-HwLfgi_5o
+
+    2. "Glorification of Death" by Yun Sim-deok (1926)
+    https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96
+    (not the original recording)
+
+    3. “Tears of Mokpo” by Lee Nan-yeong (1935)
+    "Tears of Mokpo" is based off the city, Mokpo, in Korea which became symbolic of Japan's victory and control of Korea.
+    https://www.youtube.com/watch?v=kNCQjn2GX7M
+
+    4. “My Brother is a Street Musician” (오빠는 풍각쟁이야) by Park Hyang-rim (1938)
+    https://www.youtube.com/watch?v=tev48pcM8ws
+
+From the 1940s to the 1950s, after the United States liberated Korea from Japanese control (1945), the Korean War (1950-1953) occured between North Korea and South Korea. During this time Korea was under the right-wing government led by Syngman Rhee (1948-1960), who became known for killing and arresting leftist opponents, political oppression, and taking away term limits for officials. In 1956 the first television station brodcasted, and in general the 50s brought Korea mass urbanization, a booming popular culture, and Americanization through performers, salons, clubs, and military radio.
+
+    5. "Go Away 38th Parallel" by Nam In Soo (1949)
+    https://www.youtube.com/watch?v=jqkh26uaMAU 
+
+    6. "Guitar Boogie" by Yoon Ilro (1950)
+    The song was a popular iteration of the corresponding Western song that provided dance music to Korea.
+    https://www.youtube.com/watch?v=4ADWBa9z2Rs
+
+    7. "Farewell in Busan Station" (1953)
+    https://www.youtube.com/watch?v=tm4HJXZShww
+    (not the original recording)
+
+    8. "Be strong! Keumsun!" (1953)
+    https://www.youtube.com/watch?v=DpJGl7FYI58
+
+In the 1960s, the April Revolution begun with mass protests against the President Syngman Rhee, eventually leading to his resignation. The same year, South Korea held a democratic election where Yun Bo-soen is elected, but by May 16, 1961 Park Chung-hee begins a coup d’etat where he gained presidency in 1962. In 1961, Korea's 1st government tv brodcasting station, KBS, was created, and Park Chung-hee utilized it to promote anti-communism and Americanization. The 60s in South Korea saw a better economy, more televisions, and American music played on TV. 
+
+    9. “Camelia Lady” by Lee Mi-ja (1964)
+    A popular Trot song amogst populace.
+    https://www.youtube.com/watch?v=y8ChOe12BLs
+    
+    10. "A Cup of Coffee" by Pearl Sisters (1968)
+    American inspired soul song popular among upper/middle class.
+    https://www.youtube.com/watch?v=4r66aMnWWCM
+    
+    11. "My Beloved Is Far Away; Before Being Late" by Kim Choo-ja (1969)
+    https://www.youtube.com/watch?v=WlY29K1k3z0
+    
+In the 1970s, the Yushin Regime was founded as the Fourth Republic of Korea legally allowing Park Chunghee to hold a dictatorship. During this time, there was a curfew that was set and women could get arrested for short skirts among many other laws that were issued. This further caused tension between older generations who valued tradition and the younger generations that were social intellectuals influenced by American values. By the end of the decade in 1979, dictator Park Chunghee was assainated by the Korean CIA, and the month following, a new coup-de-tat was formed making Cheon Doo-Hwan the new dictator. 
+
+    12. "To The Happy World" by Han dae soo (1974)
+    Han dae soo was a popular folk muscian heavily inspired by American youth values, who created music with themes of wanting freedom.
+    https://www.youtube.com/watch?v=H1cG8BB4fts
+    
+    13. "Give me water" by by Han dae soo (1974)
+    https://www.youtube.com/watch?v=m3z0HJirgQI
+    
+During the 1980s, the Gwangju Democracy Movement started at the beginning of the decade with massive protests leading to many protesters being killed by the government. The government further blamed the communist party for the protests. By 1987, Roh Tae-woo was announced as the 6th president which led to more major protests, and finally the presidential elections were reinstated. A new "3S" policy was passed to distract the general population from politics with sports, sex, and screen. Under this time, the media was under state control and the teenage demographic became a consumer group.
+
+    14. "좋아해" by Na Mi (1980)
+    https://www.youtube.com/watch?v=8cEvJSY05GQ
+    
+    15. "Short Hair" by Cho Yong-Pil (1980)
+    "Short Hair" was a popular pop ballad song during the 80s.
+    https://www.youtube.com/watch?v=c7ZVo6SBQ9Q
+    
+    16. "그 사람 미워요" by Kim Wan Sun (1986)
+    Kim Wan Sun was known as Korea's Madonna
+    https://www.youtube.com/watch?v=qqeusNyLtws
+    
+    17. "Last night" by SoBangCha (1988)
+    SoBangCha was a popular dance trio of Na Mi, Kim Wan Sun, and Park Nam Jung who were all major dance artists that were popular among teens.
+    https://www.youtube.com/watch?v=ErewtVOZn6M
+    
+    18. 'Missing you' by Park Nam Jung (1989)
+    https://www.youtube.com/watch?v=g21lBGfnzfs
+
+The 1990s in South Korea saw the introduction of Neoliberalism which made things more competitive espeically for students. The idea of culture also saw a shift into being a commodity, and record labels began shifting into a J-pop inspired model that includes inhouse training, recording, and managing. Labels further focused more on an all-round entertainer over just a musician. In 1995 the major record label, SM entertainment was founded. However by 1997 South Korea faced an economic collapse which devasted the independent music industry. 
+
+    19. "COME BACK HOME" by "Seotaiji and Boys" (1995)
+    The song was heavily influenced by "gangsta" rap that originated in America.
+    https://www.youtube.com/watch?v=q3xy4p2JTfU
+    
+    20. "Candy" by H.O.T (1996)
+    H.O.T were considered to be the first K-pop idol group following the change in the music industry, and their successful model was implemented for the many K-pop groups that came after them.
+    https://www.youtube.com/watch?v=GMsc7wGghy8
+    
+    21. "Im Your Girl" by S.E.S (1997)
+    https://www.youtube.com/watch?v=WpmTLDtr4qY
+
+
+    
 This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
 - What is your cultural data source? 
 - When was it made? 
 - Who created the works? 
 - Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
-
 ## Code
 
 (20 points)

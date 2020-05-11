@@ -96,7 +96,7 @@ During the 1980s, the Gwangju Democracy Movement started at the beginning of the
     18. 'Missing you' by Park Nam Jung (1989)
     https://www.youtube.com/watch?v=g21lBGfnzfs
 
-The 1990s in South Korea saw the introduction of Neoliberalism which made things more competitive espeically for students. The idea of culture also saw a shift into being a commodity, and record labels began shifting into a J-pop inspired model that includes inhouse training, recording, and managing. Labels further focused more on an all-round entertainer over just a musician. In 1995 the major record label, SM entertainment was founded. However by 1997 South Korea faced an economic collapse which devasted the independent music industry. 
+The 1990s in South Korea saw the introduction of Neoliberalism which made things more competitive espeically for students. The idea of culture also saw a shift into being a commodity, and record labels began shifting into a J-pop inspired model that includes inhouse training, recording, and managing. Labels further focused more on an all-round entertainer over just a musician. In 1995 the major record label, SM entertainment was founded. However by 1997 South Korea faced an economic collapse which devasted the independent music industry. By the end of the decade, the new South Korean president, Kim Dae-jung, issued the "Sunshine Policy" which offered humanitarian aid to North Korea
 
     19. "COME BACK HOME" by "Seotaiji and Boys" (1995)
     The song was heavily influenced by "gangsta" rap that originated in America.
@@ -109,8 +109,35 @@ The 1990s in South Korea saw the introduction of Neoliberalism which made things
     21. "Im Your Girl" by S.E.S (1997)
     https://www.youtube.com/watch?v=WpmTLDtr4qY
 
+In the 2000s, Kim Jong-il of North Korea and the South Korean president, Kim Dae-jung held a submit which lead to a mutual agreement among both leader. In August of 2000, the Border offices re-open and for the first time North Koreans and South Koreans were allowed to meet. The Korean music market expansion also slowed down, and thus the industry started to go into new asian markets like China. It became so popular that it was called "Hallyu" (Korean Wave) that lead to the extraordinary growth of Korean culture from music to televesion all around the world. In 2002, the kdrama, Winer Sonata, became a major phenomenon among other Asian countries. While Trot music and Ballads were still very popular at this time, the Kpop groups took over the industry. By the end of the decade, North Korea and South Korea scrapped all military and political deals leading to multiple naval battles. 
 
+    22. "Eat You Up" by BOA (2008)
+    https://www.youtube.com/watch?v=OLnr2u_nj10
     
+    23. "LA LA LA" by SE7EN (2008)
+    https://www.youtube.com/watch?v=arUScZVMtgc
+    
+    24. "Rainism" by Rain (2008)
+    https://www.youtube.com/watch?v=QDYax6ABb-8
+    
+    25. "Mirotic" by TVXQ (2008)
+    https://www.youtube.com/watch?v=HtJS32n6LNQ
+
+In the 2010s, the tension between North and South Korea grew with multiple conflicts including exchange fire across land and sea borders from 2010 to 2014. In 2014, the Sewol ferry incident led to over 200 deaths of South Koreans high schoolers after the captain and crew's misdoings. In 2016, the THADD missile system was deployed in South Korea which led to the ban of Korean media in China. The following year, President Park Geun-hye was impeached and imprisoned after she allowed a personal friend with a lack of government position to interfere in affairs of state. By the end of the decade after numerous incidents throughout the past few years, North Korea and South Korea agreed to end all hostile actions against each other, and marched under the same flag during South Korea's 2018 Winter Olympics.
+
+    26. "Monster" by EXO (2016)
+    https://www.youtube.com/watch?v=KSH-FVVtTf0
+    
+    27. "TT" by Twice (2016)
+    https://www.youtube.com/watch?v=ePpPVE-GGJw
+    
+    28. "Don't Wanna Cry" by SEVENTEEN (2017)
+    https://www.youtube.com/watch?v=zEkg4GBQumc
+    
+    29. "DNA" by BTS (2017)
+    https://www.youtube.com/watch?v=MBdVXkSdhwU
+
+
 This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
 - What is your cultural data source? 
 - When was it made? 

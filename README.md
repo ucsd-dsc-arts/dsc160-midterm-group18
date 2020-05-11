@@ -3,27 +3,19 @@
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
 Project Team Members: 
-- Firstname Lastname1, name1@ucsd.edu
-- Firstname Lastname2, name2@ucsd.edu
-- Firstname Lastname3, name3@ucsd.edu
-- Firstname Lastname4, name4@ucsd.edu
-- Firstname Lastname5, name5@ucsd.edu
+- Brian Qian, brqian@ucsd.edu
+- Emma Logomasini, elogomas@ucsd.edu
+- Nicholas Kho, nikho@ucsd.edu
+- Siqi Huangg, name4@ucsd.edu
 
 ## Abstract
 
-(10 points) 
+The Korean music industry is often seen as a bright and fresh representation of East-Asian creativity that has captured the world’s attention. In this project, we will be taking a look at numerous decades of popular music in Korea from the 1910s to the 2010s to understand the connection between distinctive musical styles and major political events that coincide with them. Part of what makes this possible analysis intriguing is that Korea has been under the cultural influence of two major powers in the last century in addition to dealing with oppressive regimes. Our goal is to try to measure the influence of these events in the difference of genres. Our research question is that do we see similar features in time periods that dealt with similar historical issues, in this case, political repression or economic growth? Our hypothesis is that we will see similarities in periods of great political conflict. To further cognize the influence of political changes, we will be extracting information in forms of features such as Fourier Transforms, MFCCs, temporal, and spectral statistics on a dataset of representative music of each major political era in recent Korean history. Thus we will be able to further attribute certain characteristics towards the political and cultural events, whether positive or negative, that occured within the same timeframe. 
 
-For the project proposal, please write a short abstact addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
+As for the technical process, we will be utilizing jupyterhub and numerous libraries such as Seaborn, matplotlib, and LibROSA to extract and display the features we will be taking into consideration. Our results will be formatted among graphs and charts to give a visual perception of each distinct era of political change to demonstrate if the popular music at that time shared specific elements among each other. We feel like we can make a “timeline” to represent the different features of each area.  We feel as this project will give us further insight into the history of Korean music which has become a global genre in today’s world. Overall, we want to see if there is a correlation between the characteristics of popular Korean music and major political events throughout time, and whether or not the relationship is substantial. 
 
-- What is the data set that you are going to analyze?
-- What is your research question? 
-- What is your hypothesis about the results? 
-- What features of the data will you use to address your question? 
-- What techniques and software tools will you use to extract these features?
-- What analytic techniques will you use?
-- What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
-- How are you expanding on topics we have covered in class? 
-- Why is it interesting? (personally, culturally, politically, other)
+In terms of dataset, we will be utilizing suggested important songs of each era as outlined in the Sogang University's Professor Huikyong Pang’s class “The Mediums of Korean Cultural Modernity.” In addition, we plan to look at Melon [Korean’s music chart ranking since 2004] chart data for recent popular singles. 
+
 
 ## Data
 

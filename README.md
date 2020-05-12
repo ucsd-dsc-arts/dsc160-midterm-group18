@@ -155,9 +155,10 @@ Links:
 
 ## Code
 
-To make our code more cohesive, we decided to complie all our code into one file. 
+[Introduction code File](code/introcode.ipynb)
+[Analysis code File](code/analysiscode.ipynb)
 
-[Analysis code File](code/audioextractions.ipynb)
+
 For the analysis portion of our code, we decided to extract multiple features including Chroma-based features, spectral centroid, spectral bandwidth, spectral roll off, and zero crossing rate. For our chroma-based features we decided to use 12 (the same amount of coefficents as our MFCCs) and we obtained the mean for all the features among all 29 songs in our database. We then created a dataframe indexed by the political era and further scaled the features to the mean of 0.0 and a standard deviation of 1.0. We then made graphical comparisons among each feature displaying multiple plot graphs to see if there were correlations among each political era. Furthermore to understand the era as a whole, we grouped by political era and obtained the average of every features per decade and displayed subplots to show the growth of features throughout the timeline.
 
 
@@ -174,9 +175,14 @@ Link each of your notebooks or .py files within this section, and provide a brie
 ## Results
 
 ![subplots showing the multiple features we extracted](results/subplots.png)
+
 ![plots showing rolloff vs centroid](results/rolloff_vs_centroid.png)
+
 ![plots showing rolloff vs centroid](results/rolloff_vs_bandwidth.png)
+
 ![graphs with thumbnails](results/nick.png)
+This graph displays the thumbnail for each song that we used, and bins them by the mean of their respective time period. As you can see there is an upward trend in the mean mfcc as time goes on, with exceptions to the 2000s.
+
 
 (30 points) 
 
@@ -210,6 +216,9 @@ The subsequent paragraphs could address questions including:
 ## Team Roles
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+Brian Qian- abstract, provided explanation to the data section, worked on analysis code file, provided and explained results, dicussion
+Nicholas Kho- found the data to use, worked on the introduction code file, provided and explained results, dicussion
+Emma Logomasini- abstract, found the data to use, provided explanation to the data section, worked on analysis code file, provided and explained results, dicussion
 
 ## Technical Notes and Dependencies
 

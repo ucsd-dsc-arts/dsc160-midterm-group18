@@ -25,10 +25,12 @@ From 1910-1945, Korea was under Japanese Colonization where the emergence of mas
     1. "희망가" Huimangga (1925)
     "Huimangga" was a popular Changga (Anti-Japanese) song that was sung to express the people's hope of regaining the country's sovereignty. 
     While the song doesn't have a specific recording or artist, it was one of the earliest pop record that was inspired by Western and Christian hymns
-   [https://www.youtube.com/watch?v=F-HwLfgi_5o]
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=F-HwLfgi_5o
+" target="_blank"><img src="http://img.youtube.com/vi/F-HwLfgi_5o/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
     2. "Glorification of Death" by Yun Sim-deok (1926)
-   [https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96]
+    [https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96]
     (not the original recording)
 
     3. “Tears of Mokpo” by Lee Nan-yeong (1935)

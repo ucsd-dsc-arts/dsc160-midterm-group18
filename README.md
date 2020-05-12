@@ -34,9 +34,9 @@ From 1910-1945, Korea was under Japanese Colonization where the emergence of mas
     4. “My Brother is a Street Musician” (오빠는 풍각쟁이야) by Park Hyang-rim (1938)
 
 Links:
-[Huimangga](https://www.youtube.com/watch?v=F-HwLfgi_5o)
-[Glorification of Death](https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96)
-[Tears of Mokpo](https://www.youtube.com/watch?v=kNCQjn2GX7M)
+[Huimangga](https://www.youtube.com/watch?v=F-HwLfgi_5o),
+[Glorification of Death](https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96),
+[Tears of Mokpo](https://www.youtube.com/watch?v=kNCQjn2GX7M),
 [My Brother is a Street Musician](https://www.youtube.com/watch?v=tev48pcM8ws)
 
 From the 1940s to the 1950s, after the United States liberated Korea from Japanese control (1945), the Korean War (1950-1953) occurred between North Korea and South Korea. During this time Korea was under the right-wing government led by Syngman Rhee (1948-1960), who became known for killing and arresting leftist opponents, political oppression, and taking away term limits for officials. In 1956 the first television station was broadcasted, and in general the 50s brought Korea mass urbanization, a booming popular culture, and Americanization through performers, salons, clubs, and military radio.
@@ -52,9 +52,9 @@ From the 1940s to the 1950s, after the United States liberated Korea from Japane
     8. "Be strong! Keumsun!" (1953)
 
 Links:
-[Go Away 38th Parallel](https://www.youtube.com/watch?v=jqkh26uaMAU)
-[Guitar Boogie](https://www.youtube.com/watch?v=4ADWBa9z2Rs)
-[Farewell in Busan Station](https://www.youtube.com/watch?v=tm4HJXZShww)
+[Go Away 38th Parallel](https://www.youtube.com/watch?v=jqkh26uaMAU),
+[Guitar Boogie](https://www.youtube.com/watch?v=4ADWBa9z2Rs),
+[Farewell in Busan Station](https://www.youtube.com/watch?v=tm4HJXZShww),
 [Be Strong! Keumsun!](https://www.youtube.com/watch?v=DpJGl7FYI58)
 
 In the 1960s, the April Revolution began with mass protests against the President Syngman Rhee, eventually leading to his resignation. The same year, South Korea held a democratic election where Yun Bo-soen was elected, but by May 16, 1961 Park Chung-hee began a coup d’etat where he gained the presidency in 1962. In 1961, Korea's 1st government tv broadcasting station, KBS, was created, and Park Chung-hee utilized it to promote anti-communism and Americanization. The 60s in South Korea saw a better economy, more televisions, and American music played on TV. 
@@ -68,8 +68,8 @@ In the 1960s, the April Revolution began with mass protests against the Presiden
     11. "My Beloved Is Far Away; Before Being Late" by Kim Choo-ja (1969)
 
 Links:
-[Camelia Lady](https://www.youtube.com/watch?v=y8ChOe12BLs)
-[A Cup of Coffee](https://www.youtube.com/watch?v=4r66aMnWWCM)
+[Camelia Lady](https://www.youtube.com/watch?v=y8ChOe12BLs),
+[A Cup of Coffee](https://www.youtube.com/watch?v=4r66aMnWWCM),
 [My Beloved Is Far Away; Before Being Late](https://www.youtube.com/watch?v=WlY29K1k3z0)
 
 In the 1970s, the Yushin Regime was founded as the Fourth Republic of Korea legally allowing Park Chunghee to hold a dictatorship. During this time, there was a curfew that was set and women could get arrested for short skirts among many other laws that were issued. This further caused tension between older generations who valued tradition and the younger generations that were social intellectuals influenced by American values. By the end of the decade in 1979, dictator Park Chunghee was assassinated by the Korean CIA, and the month following, a new coup-de-tat was formed making Cheon Doo-Hwan the new dictator. 
@@ -80,7 +80,7 @@ In the 1970s, the Yushin Regime was founded as the Fourth Republic of Korea lega
     13. "Give me water" by by Han dae soo (1974)
 
 Links:
-[To The Happy World](https://www.youtube.com/watch?v=H1cG8BB4fts)
+[To The Happy World](https://www.youtube.com/watch?v=H1cG8BB4fts),
 [Give me water](https://www.youtube.com/watch?v=m3z0HJirgQI)
 
 During the 1980s, the Gwangju Democracy Movement started at the beginning of the decade with massive protests leading to many protesters being killed by the government. The government further blamed the communist party for the protests. By 1987, Roh Tae-woo was announced as the 6th president which led to more major protests, and finally the presidential elections were reinstated. A new "3S" policy was passed to distract the general population from politics with sports, sex, and screen. Under this time, the media was under state control and the teenage demographic became a consumer group.
@@ -99,10 +99,10 @@ During the 1980s, the Gwangju Democracy Movement started at the beginning of the
     18. 'Missing you' by Park Nam Jung (1989)
 
 Links:
-[좋아해](https://www.youtube.com/watch?v=8cEvJSY05GQ)
-[Short Hair](https://www.youtube.com/watch?v=c7ZVo6SBQ9Q)
-[그 사람 미워요](https://www.youtube.com/watch?v=qqeusNyLtws)
-[Last night](https://www.youtube.com/watch?v=ErewtVOZn6M)
+[좋아해](https://www.youtube.com/watch?v=8cEvJSY05GQ),
+[Short Hair](https://www.youtube.com/watch?v=c7ZVo6SBQ9Q),
+[그 사람 미워요](https://www.youtube.com/watch?v=qqeusNyLtws),
+[Last night](https://www.youtube.com/watch?v=ErewtVOZn6M),
 [Missing you](https://www.youtube.com/watch?v=g21lBGfnzfs)
 
 The 1990s in South Korea saw the introduction of Neoliberalism which made things more competitive especially for students. The idea of culture also saw a shift into being a commodity, and record labels began shifting into a J-pop inspired model that includes inhouse training, recording, and managing. Labels further focused more on an all-round entertainer over just a musician. In 1995 the major record label, SM entertainment was founded. However by 1997 South Korea faced an economic collapse which devasted the independent music industry. By the end of the decade, the new South Korean president, Kim Dae-jung, issued the "Sunshine Policy" which offered humanitarian aid to North Korea
@@ -116,8 +116,8 @@ The 1990s in South Korea saw the introduction of Neoliberalism which made things
     21. "Im Your Girl" by S.E.S (1997)
 
 Links:
-[Come Back Home](https://www.youtube.com/watch?v=q3xy4p2JTfU)
-[Candy](https://www.youtube.com/watch?v=GMsc7wGghy8)
+[Come Back Home](https://www.youtube.com/watch?v=q3xy4p2JTfU),
+[Candy](https://www.youtube.com/watch?v=GMsc7wGghy8),
 [Im Your Girl](https://www.youtube.com/watch?v=WpmTLDtr4qY)
 
 In the 2000s, Kim Jong-il of North Korea and the South Korean president, Kim Dae-jung held a submit which lead to a mutual agreement among both leaders. In August of 2000, the Border offices reopen and for the first time North Koreans and South Koreans were allowed to meet. The Korean music market expansion also slowed down, and thus the industry started to go into new asian markets like China. It became so popular that it was called "Hallyu" (Korean Wave) that lead to the extraordinary growth of Korean culture from music to television all around the world. In 2002, the kdrama, Winer Sonata, became a major phenomenon among other Asian countries. While Trot music and Ballads were still very popular at this time, the Kpop groups took over the industry. By the end of the decade, North Korea and South Korea scrapped all military and political deals leading to multiple naval battles. 
@@ -132,9 +132,9 @@ In the 2000s, Kim Jong-il of North Korea and the South Korean president, Kim Dae
     25. "Mirotic" by TVXQ (2008)
     
 Links:
-[Eat You Up](https://www.youtube.com/watch?v=OLnr2u_nj10)
-[LA LA lA](https://www.youtube.com/watch?v=arUScZVMtgc)
-[Rainism](https://www.youtube.com/watch?v=QDYax6ABb-8)
+[Eat You Up](https://www.youtube.com/watch?v=OLnr2u_nj10),
+[LA LA lA](https://www.youtube.com/watch?v=arUScZVMtgc),
+[Rainism](https://www.youtube.com/watch?v=QDYax6ABb-8),
 [Mirotic](https://www.youtube.com/watch?v=HtJS32n6LNQ)
 
 In the 2010s, the tension between North and South Korea grew with multiple conflicts including exchange of fire across land and sea borders from 2010 to 2014. In 2014, the Sewol ferry incident led to over 200 deaths of South Koreans high schoolers due the captain and crew's misdoings. In 2016, the THAAD missile system was deployed in South Korea which led to the ban of Korean media in China. The following year, President Park Geun-hye was impeached and imprisoned after she allowed a personal friend with a lack of government position to interfere in affairs of state. By the end of the decade after numerous incidents throughout the past few years, North Korea and South Korea agreed to end all hostile actions against each other, and marched under the same flag during South Korea's 2018 Winter Olympics.
@@ -148,9 +148,9 @@ In the 2010s, the tension between North and South Korea grew with multiple confl
     29. "DNA" by BTS (2017)
 
 Links:
-[Monster](https://www.youtube.com/watch?v=KSH-FVVtTf0)
-[TT](https://www.youtube.com/watch?v=ePpPVE-GGJw)
-[Don't Wanna Cry](https://www.youtube.com/watch?v=zEkg4GBQumc)
+[Monster](https://www.youtube.com/watch?v=KSH-FVVtTf0),
+[TT](https://www.youtube.com/watch?v=ePpPVE-GGJw),
+[Don't Wanna Cry](https://www.youtube.com/watch?v=zEkg4GBQumc),
 [DNA](https://www.youtube.com/watch?v=MBdVXkSdhwU)
 
 ## Code

@@ -157,7 +157,7 @@ Links:
 
 [Introduction code File](code/introcode.ipynb)
 
-We also looked at whether MFCCs would be a good predictor for each of the years, and we noticed that as time went up, so did the mean MFCC. So we could see an upward trend between mean MFCC and time. We generated a table that displays each thumbnail for every time period and plotted them out to show the growth of MFCC as time went on. 
+We compiled a list of the most popular songs from popular artists from each time period, downloaded the mp3 files of each one from Youtube, and loaded them into Python. We also looked at whether MFCCs would be a good predictor for each of the years, and we noticed that as time went up, so did the mean MFCC. So we could see an upward trend between mean MFCC and time. We generated a table that displays each thumbnail for every time period and plotted them out to show the growth of MFCC as time went on. 
 
 [Analysis code File](code/analysiscode.ipynb)
 
@@ -167,24 +167,25 @@ For the analysis portion of our code, we decided to extract multiple features in
 ## Results
 
 ![subplots showing the multiple features we extracted](results/subplots.png)
+These subplots show a gradual growth for most spectral features from the 1910s to the 2010s. In certain features like zero crossing rate we see a flucuation from era to era. Most prominently we see a connection from the 1940s-1950s, 1970s where these decades particuarly are known to be politcally repressive eras. In the mfcc means we also see gradual growth with an intensity in the 1990s which was the beginning of the priority of entertainment over politics. 
 
 ![plots showing bandwidth vs centroid](results/centroidband.png)
-
 ![plots showing rolloff vs centroid](results/rolloffcent.png)
-
 ![plots showing rolloff vs bandwidth](results/rolloffband.png)
+In these plots we see a distinct gradual relatioship between spectral centroid features and spectral bandwidth features among each decade. It becomes clearer when we displayed the relatioship between spectral rolloff and spectral centroid, that there is a distinct upward trend and most prominently we notice the drastic difference between the 1910s songs and 2010s songs where a century after the music has developed into a full industry. 
 
 ![graphs with thumbnails](results/nick.png)
 This graph displays the thumbnail for each song that we used, and bins them by the mean of their respective time period. As you can see there is an upward trend in the mean mfcc as time goes on, with exceptions to the 2000s.
 
 ![plots 1](results/em.png)
-
 ![plots 2](results/em2.png)
-
+For these results, we looked at the ability for 1970s and 1945-1950s genres to be predicted; as we found that they were similar, we wanted to show that they would be hard to distinguish. The predictor for these songs only gave .14 accuracy; so there was consistent similarity in genre. Graphed in the first 2.5 seconds and their label prediction for these songs. 
 
 ## Discussion
 
-We looked into statistics you can look at based off each songs time period. We sound that for the most part, there was a continual upward trend for most of the statistics [bandwidth, MCFF, etc]. However, we found that some periods had more similarities than expected. In particular, there were many similarities in 1970s and 1945-1950s data. We cannot make a definite conclusion, as our dataset was too small; however, both periods of time were known for their political and social oppression in Korea. Additionally, both periods ended with military overthrows of the government. This is culturally relevant because it could measure an idea that is widely accepted: that current events affect artistic expression. Morevermore, it could play into the idea that people respond to oppression in similar ways artisitcally. 
+We looked into the statistics based on each time period’s songs. We found that for the most part, there was a continual upward trend for most of the statistics [bandwidth, MCFF, etc]. Overall, there was similarity between decades closer together, and there was a clear linear trend that probably reflected changing preferences in genre. However, we found that some periods had more similarities than expected. 
+
+In particular, there were many similarities in 1970s and 1945-1950s data. We cannot make a definite conclusion, as our dataset was too small; however, both periods of time were known for their political and social oppression in Korea. Additionally, both periods ended with military overthrows of the government. This is culturally relevant because it could measure an idea that is widely accepted: that current events affect artistic expression. Morevermore, it could play into the idea that people respond to oppression in similar ways artisitcally. I don’t believe that people will change the way that they respond to conflict based off this information; however, perhaps this mindset could show that not just genre trends affect what people enjoy; perhaps certain types of songs and melodies resonate better under certain conditions. 
 
 Since we only chose the most popular songs of each time period to represent our data, future directions, we definitely think expanding our database would vastly improve results especially since for some eras they were only represented by two or three artists. To get a better picture of the general sound of each era, we definitely think providing more data would help generate better results. It would be interesting to look into the lyrics of some this dataset and run sentiment analysis. Perhaps that would give us a better understanding of trends between time periods. 
 

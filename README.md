@@ -23,24 +23,25 @@ In terms of dataset, we will be utilizing suggested important songs of each era 
 From 1910-1945, Korea was under Japanese Colonization where the emergence of mass media, newspapers and Japanese TROT music, notable for its common sad themes, was introduced in the 1920s. By the 1930s the recording industry in Korea began to fully develop with the introduction of the phonograph. During this time, Japan often censored recordings that they deemed "troublesome." The songs we found the most prominent during this era were the following:
 
     1. "희망가" Huimangga (1925)
-    "Huimangga" was a popular Changga (Anti-Japanese) song that was sung to express the people's hope of regaining the country's sovereignty. While the song doesn't have a specific recording or artist, it was one of the earliest pop record that was inspired by Western and Christian hymns
-    [https://www.youtube.com/watch?v=F-HwLfgi_5o]
+    "Huimangga" was a popular Changga (Anti-Japanese) song that was sung to express the people's hope of regaining the country's sovereignty. 
+    While the song doesn't have a specific recording or artist, it was one of the earliest pop record that was inspired by Western and Christian hymns
+   [https://www.youtube.com/watch?v=F-HwLfgi_5o]
 
     2. "Glorification of Death" by Yun Sim-deok (1926)
-    [https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96]
+   [https://www.youtube.com/watch?v=lsxwHLGG_v4&list=LLqp5LSKwhs3T11Fu_neLoBA&index=96]
     (not the original recording)
 
     3. “Tears of Mokpo” by Lee Nan-yeong (1935)
     "Tears of Mokpo" is based off the city, Mokpo, in Korea which became symbolic of Japan's victory and control of Korea.
-    [https://www.youtube.com/watch?v=kNCQjn2GX7M]
+   [https://www.youtube.com/watch?v=kNCQjn2GX7M]
 
     4. “My Brother is a Street Musician” (오빠는 풍각쟁이야) by Park Hyang-rim (1938)
-    [https://www.youtube.com/watch?v=tev48pcM8ws]
+   [https://www.youtube.com/watch?v=tev48pcM8ws]
 
 From the 1940s to the 1950s, after the United States liberated Korea from Japanese control (1945), the Korean War (1950-1953) occurred between North Korea and South Korea. During this time Korea was under the right-wing government led by Syngman Rhee (1948-1960), who became known for killing and arresting leftist opponents, political oppression, and taking away term limits for officials. In 1956 the first television station was broadcasted, and in general the 50s brought Korea mass urbanization, a booming popular culture, and Americanization through performers, salons, clubs, and military radio.
 
     5. "Go Away 38th Parallel" by Nam In Soo (1949)
-    [https://www.youtube.com/watch?v=jqkh26uaMAU]
+   [https://www.youtube.com/watch?v=jqkh26uaMAU]
 
     6. "Guitar Boogie" by Yoon Ilro (1950)
     The song was a popular iteration of the corresponding Western song that provided dance music to Korea.

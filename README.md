@@ -155,7 +155,7 @@ Links:
 
 ## Code
 
-[Introduction code File](code/introcode.ipynb)
+[Introduction code File](code/beggingcode.ipynb)
 
 We compiled a list of the most popular songs from popular artists from each time period, downloaded the mp3 files of each one from Youtube, and loaded them into Python. We also looked at whether MFCCs would be a good predictor for each of the years, and we noticed that as time went up, so did the mean MFCC. So we could see an upward trend between mean MFCC and time. We generated a table that displays each thumbnail for every time period and plotted them out to show the growth of MFCC as time went on. 
 

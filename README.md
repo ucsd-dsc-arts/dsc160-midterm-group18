@@ -157,7 +157,7 @@ Links:
 
 To make our code more cohesive, we decided to complie all our code into one file. 
 
-
+[Analysis code File](code/audioextractions.ipynb)
 For the analysis portion of our code, we decided to extract multiple features including Chroma-based features, spectral centroid, spectral bandwidth, spectral roll off, and zero crossing rate. For our chroma-based features we decided to use 12 (the same amount of coefficents as our MFCCs) and we obtained the mean for all the features among all 29 songs in our database. We then created a dataframe indexed by the political era and further scaled the features to the mean of 0.0 and a standard deviation of 1.0. We then made graphical comparisons among each feature displaying multiple plot graphs to see if there were correlations among each political era. Furthermore to understand the era as a whole, we grouped by political era and obtained the average of every features per decade and displayed subplots to show the growth of features throughout the timeline.
 
 
@@ -174,8 +174,9 @@ Link each of your notebooks or .py files within this section, and provide a brie
 ## Results
 
 ![subplots showing the multiple features we extracted](results/subplots.png)
-
-
+![plots showing rolloff vs centroid](results/rolloff_vs_centroid.png)
+![plots showing rolloff vs centroid](results/rolloff_vs_bandwidth.png)
+![graphs with thumbnails](results/nick.png)
 
 (30 points) 
 
@@ -218,6 +219,7 @@ Any implementation details or notes we need to repeat your work.
 - Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
 
 ## Reference
+
 
 References to any papers, techniques, repositories you used:
 - Papers

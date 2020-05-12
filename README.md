@@ -155,6 +155,9 @@ Link each of your notebooks or .py files within this section, and provide a brie
 
 ## Results
 
+![subplots showing the multiple features we extracted](results/subplots.png)
+results/Screen Shot 2020-05-11 at 4.49.04 PM.png
+
 (30 points) 
 
 This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 

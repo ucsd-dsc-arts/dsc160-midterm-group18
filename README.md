@@ -6,7 +6,6 @@ Project Team Members:
 - Brian Qian, brqian@ucsd.edu
 - Emma Logomasini, elogomas@ucsd.edu
 - Nicholas Kho, nikho@ucsd.edu
-- Siqi Huangg, (unreachable?)
 
 ## Abstract
 
@@ -16,10 +15,10 @@ Our research question is: do we see similar features in time periods that dealt 
 
 As for the technical process, we will be utilizing jupyterhub and numerous libraries such as Seaborn, matplotlib, and LibROSA to extract and display the features we will be taking into consideration. Our results will be formatted among graphs and charts to give a visual perception of each distinct era of political change to demonstrate if the popular music at that time shared specific elements among each other. We feel like we can make a “timeline” to represent the different features of each area.  We feel as this project will give us further insight into the history of Korean music which has become a global genre in today’s world. Overall, we want to see if there is a correlation between the characteristics of popular Korean music and major political events throughout time, and whether or not the relationship is substantial. 
 
+In terms of dataset, we will be utilizing suggested important songs of each era as outlined in the Sogang University's Professor Huikyong Pang’s class “The Mediums of Korean Cultural Modernity.” In addition, we took a look at Melon [Korean’s music chart ranking since 2004] chart data for recent popular singles to highlight major songs that have impacted the recent decades. As for the major political and cultural events during each era we will be using a [South Korean timeline](https://www.bbc.com/news/world-asia-pacific-15292674) created by BBC.
+
 
 ## Data
-
-In terms of dataset, we will be utilizing suggested important songs of each era as outlined in the Sogang University's Professor Huikyong Pang’s class “The Mediums of Korean Cultural Modernity.” In addition, we took a look at Melon [Korean’s music chart ranking since 2004] chart data for recent popular singles to highlight major songs that have impacted the recent decades.
 
 From 1910-1945, Korea was under Japanese Colonization where the emergence of mass media, newspapers and Japanese TROT music, notable for its common sad themes, was introduced in the 1920s. By the 1930s the recording industry in Korea began to fully develop with the introduction of the phonograph. During this time, Japan often censored recordings that they deemed "troublesome." The songs we found the most prominent during this era were the following:
 
@@ -138,11 +137,6 @@ In the 2010s, the tension between North and South Korea grew with multiple confl
     https://www.youtube.com/watch?v=MBdVXkSdhwU
 
 
-This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
-- What is your cultural data source? 
-- When was it made? 
-- Who created the works? 
-- Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
 ## Code
 
 (20 points)
@@ -165,6 +159,8 @@ This section will contain links to documentation of your results. This can inclu
 - image files (`.jpg`, `.png` or whatever else is appropriate)
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
+
+
 
 ## Discussion
 

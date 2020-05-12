@@ -157,61 +157,36 @@ Links:
 
 [Introduction code File](code/introcode.ipynb)
 
+We also looked at whether MFCCs would be a good predictor for each of the years, and we noticed that as time went up, so did the mean MFCC. So we could see an upward trend between mean MFCC and time. We generated a table that displays each thumbnail for every time period and plotted them out to show the growth of MFCC as time went on. 
 
 [Analysis code File](code/analysiscode.ipynb)
 
 For the analysis portion of our code, we decided to extract multiple features including Chroma-based features, spectral centroid, spectral bandwidth, spectral roll off, and zero crossing rate. For our chroma-based features we decided to use 12 (the same amount of coefficents as our MFCCs) and we obtained the mean for all the features among all 29 songs in our database. We then created a dataframe indexed by the political era and further scaled the features to the mean of 0.0 and a standard deviation of 1.0. We then made graphical comparisons among each feature displaying multiple plot graphs to see if there were correlations among each political era. Furthermore to understand the era as a whole, we grouped by political era and obtained the average of every features per decade and displayed subplots to show the growth of features throughout the timeline.
 
 
-
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
-
-- data acquisition/scraping
-- cleaning
-- analysis
-- generating results. 
-
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
-
 ## Results
 
 ![subplots showing the multiple features we extracted](results/subplots.png)
 
-![plots showing rolloff vs centroid](results/rolloff_vs_centroid.png)
+![plots showing bandwidth vs centroid](results/centroidband.png)
 
-![plots showing rolloff vs centroid](results/rolloff_vs_bandwidth.png)
+![plots showing rolloff vs centroid](results/rolloffcent.png)
+
+![plots showing rolloff vs bandwidth](results/rolloffband.png)
 
 ![graphs with thumbnails](results/nick.png)
 This graph displays the thumbnail for each song that we used, and bins them by the mean of their respective time period. As you can see there is an upward trend in the mean mfcc as time goes on, with exceptions to the 2000s.
 
+![plots 1](results/em.png)
 
-(30 points) 
-
-This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
-
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- audio files (`.wav`, `.mp3`)
-- written text as `.pdf`
-
+![plots 2](results/em2.png)
 
 
 ## Discussion
 
-As for future directions, we definitely think expanding our database would vastly improve results especially since for some eras they were only represented by two or three artists. To get a better picture of the general sound of each era, we definitely think providing more data would help generate better results. 
+We looked into statistics you can look at based off each songs time period. We sound that for the most part, there was a continual upward trend for most of the statistics [bandwidth, MCFF, etc]. However, we found that some periods had more similarities than expected. In particular, there were many similarities in 1970s and 1945-1950s data. We cannot make a definite conclusion, as our dataset was too small; however, both periods of time were known for their political and social oppression in Korea. Additionally, both periods ended with military overthrows of the government. This is culturally relevant because it could measure an idea that is widely accepted: that current events affect artistic expression. Morevermore, it could play into the idea that people respond to oppression in similar ways artisitcally. 
 
-
-
-
-The first paragraph should be a short summary describing your results.
-
-The subsequent paragraphs could address questions including:
-- Why is this culturally relevant?
-- How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
-- How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
-- How do your results relate to broader social, cultural, economic political, etc., issues? 
-- In what future directions could you expand this work?
-
-
+Since we only chose the most popular songs of each time period to represent our data, future directions, we definitely think expanding our database would vastly improve results especially since for some eras they were only represented by two or three artists. To get a better picture of the general sound of each era, we definitely think providing more data would help generate better results. It would be interesting to look into the lyrics of some this dataset and run sentiment analysis. Perhaps that would give us a better understanding of trends between time periods. 
 
 
 ## Team Roles
@@ -223,15 +198,11 @@ Emma Logomasini- abstract, found the data to use, provided explanation to the da
 
 ## Technical Notes and Dependencies
 
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+No implementation details or notes we needed to repeat our work. 
 
 ## Reference
 
+    1. Sogang University's Professor Huikyong Pang’s class “The Mediums of Korean Cultural Modernity.”
+    2. BBC's South Korean Timeline, https://www.bbc.com/news/world-asia-pacific-15292674)
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+
